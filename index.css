@@ -25,3 +25,12 @@ h1 {
 img {
     margin: 5px;
 }
+
+div {
+    border: 5px solid lightblue;
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, .6);
+    margin-bottom: 15px;
+   
+
+}
