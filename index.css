@@ -1,6 +1,7 @@
 body {
-    font-family: "Fira Sans", Poppins, Tahoma, sans-serif;
-    background-color: antiquewhite;
+    font-family: "Fira Sans", Poppins, Tahoma, sans-serif; /* choose other font */
+    background-color: #121212;
+    color:floralwhite;
     } 
 
 @font-face {
@@ -29,8 +30,11 @@ img {
 div {
     border: 5px solid lightblue;
     border-radius: 20px;
-    background-color: rgba(240, 248, 255, .6);
+    background-color:rgb(29, 29, 29);
     margin-bottom: 15px;
-   
+   }
 
-}
+   p {
+    font-weight: 700;
+   }
+
