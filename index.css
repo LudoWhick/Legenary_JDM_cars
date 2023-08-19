@@ -27,7 +27,11 @@ img {
     margin: 5px;
 }
 
-div {
+.image {
+    margin: 5px;
+}
+
+.about {
     border: 5px solid lightblue;
     border-radius: 20px;
     background-color:rgb(29, 29, 29);
