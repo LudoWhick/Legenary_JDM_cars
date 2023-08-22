@@ -36,14 +36,14 @@ img {
 }
 
 .image {
-    margin: 5px;
+    margin: 10px 35px;
 }
 
 .about {
     border: 5px solid lightblue;
     border-radius: 20px;
     background-color:rgb(29, 29, 29);
-    margin-bottom: 15px;
+    margin: 15px;
    }
 
 p {
