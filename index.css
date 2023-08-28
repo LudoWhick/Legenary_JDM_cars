@@ -2,12 +2,12 @@
     font-family: "Fira Sans";
     src: url('Fonts/fira/woff2/FiraSans-Regular.woff2') format('woff2'),
          url('Fonts/fira/woff/FiraSans-Regular.woff') format('woff');
-    }
+}
 
 @font-face {
     font-family: "Fira Sans";
     src: url('Fonts/Poppins/Poppins_normal_300.woff2') format('woff2');
-    }
+}
 
 body {
     /* background-color: #1b1b1b; */
@@ -21,7 +21,7 @@ body {
     border-radius: 25px;
     margin: 15px auto;
     max-width: 1700px;
-    } 
+} 
 
 h1 {
     text-align: center;
@@ -47,11 +47,12 @@ img {
     border-radius: 20px;
     background-color:rgb(29, 29, 29);
     margin: 15px;
-   }
+}
 
 p {
     font-weight: 700;
-   }
+}
 
-
-
+li {
+    list-style: none;
+}
